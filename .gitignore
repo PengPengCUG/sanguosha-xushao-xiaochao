@@ -1,0 +1,16 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 运行时生成
+pj_config.json
+pj_log.txt
+pj_error.txt
+last_board.png
+
+# 构建产物
+build/
+dist/
+*.spec
+*.zip

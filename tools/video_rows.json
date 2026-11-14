@@ -1,0 +1,1260 @@
+[
+ {
+  "phase": "play",
+  "n_in_video": 1,
+  "title": "螳臂当车",
+  "skill": "鼓舌",
+  "role": "王朗",
+  "is_new": true,
+  "effect_video": "出牌阶段限一次，你可以与至多三名角色同时拼点，没赢的角色弃置一张牌或令你摸一张牌。若你没赢，你获得1枚「饶舌」标记，若标记数为7，你死亡。",
+  "seq": 1,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": "螳臂当车",
+  "title_owners": [
+   "王朗"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 2,
+  "title": "花俏蛮娇",
+  "skill": "蛮嗣",
+  "role": "花鬘",
+  "is_new": true,
+  "effect_video": "出牌阶段限一次，你可以将所有手牌当【南蛮入侵】使用。当一名角色受到【南蛮入侵】的伤害后，你摸一张牌。",
+  "seq": 2,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": "花俏蛮娇",
+  "title_owners": [
+   "花鬘"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 3,
+  "title": "鬼斧神工",
+  "skill": "神工",
+  "role": "蒲元",
+  "is_new": true,
+  "effect_video": "出牌阶段各限一次，你可以弃置一张武器/防具/坐骑或宝物牌，进行一次*锻造*，选择一张武器/防具/宝物牌置于一名角色的装备区（替换原装备）。当以此法获得的装备牌进入弃牌堆时，销毁之，然后此回合结束阶段，你摸一张牌。",
+  "seq": 3,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": "鬼斧神工",
+  "title_owners": [
+   "蒲元"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 4,
+  "title": "朗朗日月",
+  "skill": "清议",
+  "role": "夏侯玄",
+  "is_new": true,
+  "effect_video": "出牌阶段限一次，你可以与至多两名其他有牌的角色同时弃置一张牌，若类型相同，你可以重复此流程。结束阶段，你可以获得其中颜色不同的牌各一张。",
+  "seq": 4,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": "朗朗日月",
+  "title_owners": [
+   "夏侯玄"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 5,
+  "title": "中才之相",
+  "skill": "晏如",
+  "role": "费祎",
+  "is_new": true,
+  "effect_video": "出牌阶段各限一次，若你的手牌数为：·奇数，你可以摸三张牌并弃置至少半数手牌（向下取整）；·偶数，你可以弃置至少半数手牌并摸三张牌（向下取整）。",
+  "seq": 5,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": "中才之相",
+  "title_owners": [
+   "费祎"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 6,
+  "title": "社稷之器",
+  "skill": "蓄发",
+  "role": "蒋琬",
+  "is_new": true,
+  "effect_video": "出牌阶段各限一次，你可以：1.将至少半数手牌置于武将牌上，称为「蓄发」牌，然后你可以将一张牌当「蓄发」牌中任意普通锦囊牌使用；2.移去至少半数「蓄发」牌，然后你可以将一张牌当移去牌中的一张普通锦囊牌使用。",
+  "seq": 6,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": "社稷之器",
+  "title_owners": [
+   "蒋琬"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 7,
+  "title": "相机而动",
+  "skill": "离论",
+  "role": "族王广",
+  "is_new": true,
+  "effect_video": "出牌阶段限一次，你可以重铸两张同名牌（不能是本回合重铸过的牌名）并使用其中一张牌。",
+  "seq": 7,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": "相机而动",
+  "title_owners": [
+   "族王广"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 8,
+  "title": "地载十六州",
+  "skill": "采风",
+  "role": "裴秀",
+  "is_new": true,
+  "effect_video": "出牌阶段每幅地图限一次，你可以弃置任意张牌，然后从牌堆或弃牌堆中随机获得等量张其余花色的牌。",
+  "seq": 8,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": "地载十六州",
+  "title_owners": [
+   "裴秀"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 9,
+  "title": "一战天下定",
+  "skill": "西向",
+  "role": "SP曹操",
+  "is_new": true,
+  "effect_video": "出牌阶段各限一次，你可以将至少X张牌当一张无距离和次数限制的【杀】或【决斗】使用（X为所有角色本回合已使用过基本牌的次数+1）。此牌结算后，若目标角色体力大于你：·手牌数，你摸一张牌；·体力值，你回复1点体力，然后获得其一张牌。",
+  "seq": 9,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": "一战天下定",
+  "title_owners": [
+   "SP曹操"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 10,
+  "title": "踌躇的孤雁",
+  "skill": "逐北",
+  "role": "SP曹操",
+  "is_new": true,
+  "effect_video": "出牌阶段各限一次，你可以令一名其他角色将至少X张牌当【杀】或【决斗】对你使用（X为所有角色本回合已使用过基本牌次数+1）。·若你以此法受到伤害，你可以获得伤害牌；·若你未以此法受到伤害，你回复1点体力，然后可以与其交换手牌。",
+  "seq": 10,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_video": "踔踏的孤雁",
+  "title_official": "踌躇的孤雁",
+  "title_owners": [
+   "SP曹操"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 11,
+  "title": "良平之奇",
+  "skill": "完策",
+  "role": "谋贾诩",
+  "is_new": true,
+  "effect_video": "出牌阶段限一次，你可指定一名角色并声明一张指定唯一目标的普通锦囊牌，然后其依次将X张手牌当此牌使用（X为游戏轮数且至多为3）。其以此法指定目标时，你可弃置一张牌并更改目标。",
+  "seq": 11,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": ""
+ },
+ {
+  "phase": "play",
+  "n_in_video": 12,
+  "title": "万夫之勇",
+  "skill": "轮战",
+  "role": "谋文丑",
+  "is_new": true,
+  "effect_video": "出牌阶段，你可将任意张牌当一张【决斗】使用（至多为5，且本回合不可重复）。若你以此法对唯一目标造成了伤害，你可摸X张牌，然后你本回合不能再对目标角色发动此技能（X为本回合你使用牌指定其为目标的次数）。",
+  "seq": 12,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": "万夫之勇",
+  "title_owners": [
+   "王双",
+   "谋文丑"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 13,
+  "title": "狂才傲世",
+  "skill": "狂狷",
+  "role": "祢衡",
+  "is_new": true,
+  "effect_video": "出牌阶段限X次（X为你的体力上限），你可将手牌调整至与一名其他角色相同，然后摸你弃置牌数的牌。你因此技能获得的牌本回合无次数限制。",
+  "seq": 13,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": "狂才傲世",
+  "title_owners": [
+   "祢衡"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 14,
+  "title": "帷幄擎炬",
+  "skill": "迁附",
+  "role": "谋许攸",
+  "is_new": true,
+  "effect_video": "转换技，出牌阶段限一次，阳：你可以将一张黑色牌当【过河拆桥】使用；阴：你可以将一张红色牌当【火攻】使用。结算后，你可将因此弃置的牌置于牌堆顶。",
+  "seq": 14,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "skill_video": "迂附",
+  "title_official": "帷幄擎炬",
+  "title_owners": [
+   "谋许攸"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 15,
+  "title": "以时进讨",
+  "skill": "平讨",
+  "role": "闪孙坚",
+  "is_new": true,
+  "effect_video": "出牌阶段限一次，你可以令一名其他角色选择一项：1.其交给你一张牌，然后你本回合使用的下一张【杀】可以多指定一个目标；2.你视为对其使用一张【杀】（有次数限制）。",
+  "seq": 15,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": "以时进讨",
+  "title_owners": [
+   "闪孙坚"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 16,
+  "title": "利刃风骑",
+  "skill": "整兵",
+  "role": "闪张辽",
+  "is_new": true,
+  "effect_video": "群势力技，出牌阶段限三次，你可以重铸一张牌，若此牌为：【杀】，你的手牌上限+1；【闪】，你摸一张牌；【桃】或【酒】，此回合结束时，你执行一个额外的出牌阶段。然后若你以此法触发过所有选项，你变更势力至魏。",
+  "seq": 16,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": "利刃风骑",
+  "title_owners": [
+   "闪张辽"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 17,
+  "title": "天阶登志",
+  "skill": "移势",
+  "role": "谋董昭",
+  "is_new": true,
+  "effect_video": "出牌阶段限一次，你可保留手牌中每个花色各一张并展示，将其余牌置于弃牌堆，然后移动场上一张牌。若你未因此失去手牌，直到你的下个回合开始，你不因使用而失去与移动牌花色相同的牌后，摸一张牌。",
+  "seq": 17,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": ""
+ },
+ {
+  "phase": "play",
+  "n_in_video": 18,
+  "title": "伊侍佐佑",
+  "skill": "择行",
+  "role": "唐棠",
+  "is_new": true,
+  "effect_video": "出牌阶段限一次，你可展示一张牌并选择一名其他角色，令其选择一项：1.你观看其手牌并获得两张与展示牌花色不同的牌，然后其获得展示牌；2.其失去1点体力，然后你可重新选择一名其他角色并重复此流程（本回合每名角色限一次）。",
+  "seq": 18,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": ""
+ },
+ {
+  "phase": "play",
+  "n_in_video": 19,
+  "title": "火神血裔",
+  "skill": "刃掣",
+  "role": "谋祝融",
+  "is_new": true,
+  "effect_video": "出牌阶段限X次，你可弃置X张牌并令至多X名其他角色各弃置一张牌（X为本回合弃牌堆中【杀】的数量且至少为1）。每有角色因此弃置牌不为【杀】，你便摸一张牌。",
+  "seq": 19,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "skill_video": "刃挈",
+  "title_video": "火神的祝佑",
+  "title_official": "火神血裔",
+  "title_owners": [
+   "界祝融"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 20,
+  "title": "雅量之魁英",
+  "skill": "醉锋",
+  "role": "谋周瑜",
+  "is_new": true,
+  "effect_video": "出牌阶段限X次（X为你的体力上限），你可弃置一个花色的唯一手牌并选择一名角色，你观看其手牌并展示其中一张。若弃置牌与展示牌花色相同，你对其造成1点火焰伤害。其可将此牌当【酒】对你使用。",
+  "seq": 20,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": "雅量之魁英",
+  "title_owners": [
+   "谋周瑜"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 21,
+  "title": "年轻的贤君",
+  "skill": "制衡",
+  "role": "界孙权",
+  "is_new": false,
+  "effect_video": "出牌阶段限一次，你可以弃置任意张牌，然后摸等量张牌，若你以此法弃置了所有手牌，你额外摸一张牌。",
+  "seq": 21,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": "年轻的贤君",
+  "title_owners": [
+   "孙权"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 22,
+  "title": "高贵的名门",
+  "skill": "乱击",
+  "role": "袁绍",
+  "is_new": false,
+  "effect_video": "你可以将两张花色相同的手牌当【万箭齐发】使用。",
+  "seq": 22,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": "高贵的名门",
+  "title_owners": [
+   "袁绍"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 23,
+  "title": "曹魏的谋主",
+  "skill": "奇策",
+  "role": "荀攸",
+  "is_new": false,
+  "effect_video": "出牌阶段限一次，你可以将所有手牌当任意普通锦囊牌使用。",
+  "seq": 23,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": "曹魏的谋主",
+  "title_owners": [
+   "荀攸"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 24,
+  "title": "街亭之殇",
+  "skill": "散谣",
+  "role": "马谡",
+  "is_new": false,
+  "effect_video": "出牌阶段各限一次，你可以弃置一张牌对一名体力值/手牌数最大的角色造成1点伤害。",
+  "seq": 24,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": "街亭之殇",
+  "title_owners": [
+   "马谡"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 25,
+  "title": "北地枪王",
+  "skill": "雄乱",
+  "role": "张绣",
+  "is_new": false,
+  "effect_video": "限定技，出牌阶段，你可以指定一名其他角色并废除你的判定区和装备区，然后你本回合对其使用牌无距离和次数限制，其本回合不能使用和打出手牌。",
+  "seq": 25,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": "北地枪王",
+  "title_owners": [
+   "张绣"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 26,
+  "title": "虎豹骑首",
+  "skill": "缮甲",
+  "role": "曹纯",
+  "is_new": false,
+  "effect_video": "游戏开始时，你获得3个「损」。你失去一张装备牌后，你移去1个「损」。出牌阶段限一次，你可以摸三张牌，并可以使用一张【杀】。然后你此阶段使用的下X张手牌时，你弃置一张牌（X为「损」数）。若你如此做，此阶段结束时，若你此阶段未因「缮甲」弃置过牌或仅弃置过装备牌，你可视为使用一张无距离限制的【杀】。",
+  "seq": 26,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": "虎豹骑首",
+  "title_owners": [
+   "曹纯"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 27,
+  "title": "江表之力牧",
+  "skill": "魄袭",
+  "role": "神甘宁",
+  "is_new": false,
+  "effect_video": "出牌阶段限一次，你可以观看一名其他角色的手牌并可以弃置你与其手牌中共计四张不同花色的牌，若你如此做，你根据弃置牌中你的牌的数量执行效果：·0张，减少1点体力上限；·1张，结束出牌阶段且本回合手牌上限-1；·3张，回复1点体力；·4张，摸四张牌。",
+  "seq": 27,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": "江表之力牧",
+  "title_owners": [
+   "神甘宁"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 28,
+  "title": "洞悉先机者",
+  "skill": "乱武",
+  "role": "界贾诩",
+  "is_new": false,
+  "effect_video": "限定技，出牌阶段，你可以令所有其他角色依次选择一项：1.对其距离最小的另一名角色使用一张【杀】；2.失去1点体力。所有角色结算完毕后，你可以视为使用一张无距离限制的【杀】。",
+  "seq": 28,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": "洞悉先机者",
+  "title_owners": [
+   "界贾诩"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 29,
+  "title": "勒格诗惹",
+  "skill": "蛮王",
+  "role": "SP孟获",
+  "is_new": false,
+  "effect_video": "出牌阶段，你可以弃置任意张牌；随后逐段升级：依次执行前等量项（1.获得「叛侵」；2.摸一张牌；3.回复1点体力；4.摸两张牌并失去「叛侵」）。画面为四段递进长文，此处为摘要。",
+  "seq": 29,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": "勒格诗惹",
+  "title_owners": [
+   "SP孟获"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 30,
+  "title": "双剑化龙",
+  "skill": "剑合",
+  "role": "张华",
+  "is_new": false,
+  "effect_video": "出牌阶段，每名角色限一次，你可以重铸至少两张同名牌或装备牌，令一名角色选择一项：1.重铸等量张与之类型相同的牌；2.受到你的1点雷电伤害。",
+  "seq": 30,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": "双剑化龙",
+  "title_owners": [
+   "张华"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 31,
+  "title": "慨然永怀",
+  "skill": "观骨",
+  "role": "族钟琰",
+  "is_new": false,
+  "effect_video": "转换技，出牌阶段限一次，阳：你可以观看牌堆顶至多四张牌；阴：你可以观看一名角色至多四张手牌。然后你可以使用其中一张牌。",
+  "seq": 31,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": "慨然永怀",
+  "title_owners": [
+   "族钟琰"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 32,
+  "title": "瀚海鲸波",
+  "skill": "平端",
+  "role": "轲比能",
+  "is_new": false,
+  "effect_video": "出牌阶段限一次，你可以令一名角色依次执行：1.使用一张基本牌；2.重铸一张锦囊牌；3.可令你获得其装备区一张牌。其每执行一项便摸一张牌。",
+  "seq": 32,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": "瀚海鲸波",
+  "title_owners": [
+   "轲比能"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 33,
+  "title": "乱世谋焚",
+  "skill": "焚城",
+  "role": "界李儒",
+  "is_new": false,
+  "effect_video": "限定技，出牌阶段，你可以选择一名其他角色开始，令所有其他角色依次选择一项：1.弃置任意张牌（须比上家弃置的牌多）；2.受到你造成的2点火焰伤害。",
+  "seq": 33,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": "乱世谋焚",
+  "title_owners": [
+   "界李儒"
+  ]
+ },
+ {
+  "phase": "play",
+  "n_in_video": 34,
+  "title": "坚朴的忠相",
+  "skill": "募讨",
+  "role": "鲍信",
+  "is_new": false,
+  "effect_video": "出牌阶段限一次，你可以选择一名角色，令其将手牌中所有的【杀】置于其武将牌上，然后其依次将这些【杀】随机交给由其下家开始的每一名角色，然后其对最后一名角色造成X点伤害（X为最后一名角色手牌中【杀】的数量且至多为2）。",
+  "seq": 34,
+  "pool": "出牌阶段型",
+  "timing": "出牌阶段限一次",
+  "title_official": "坚朴的忠相",
+  "title_owners": [
+   "鲍信"
+  ]
+ },
+ {
+  "phase": "defense",
+  "n_in_video": 1,
+  "title": "心吞三国",
+  "skill": "反馈",
+  "role": "界司马懿",
+  "is_new": true,
+  "effect_video": "当你受到1点伤害后，你可以获得伤害来源的一张牌。",
+  "seq": 35,
+  "pool": "受击防御型",
+  "timing": "受到伤害后",
+  "title_official": "心吞三国",
+  "title_owners": [
+   "界司马懿"
+  ]
+ },
+ {
+  "phase": "defense",
+  "n_in_video": 2,
+  "title": "恃才放旷",
+  "skill": "鸡肋",
+  "role": "杨修",
+  "is_new": true,
+  "effect_video": "当你受到伤害后，你可以声明一种牌的类型，伤害来源本回合不能使用、打出或弃置你声明的此类手牌。",
+  "seq": 36,
+  "pool": "受击防御型",
+  "timing": "受到伤害后",
+  "title_official": "恃才放旷",
+  "title_owners": [
+   "杨修"
+  ]
+ },
+ {
+  "phase": "defense",
+  "n_in_video": 3,
+  "title": "省身明德",
+  "skill": "省身",
+  "role": "张昌蒲",
+  "is_new": true,
+  "effect_video": "当你受到伤害后，你可以摸随机1~2张牌且令下次「严教」亮出的牌数+X（X为你已损失体力值，至多亮出十张）。",
+  "seq": 37,
+  "pool": "受击防御型",
+  "timing": "受到伤害后",
+  "title_official": "省身明德",
+  "title_owners": [
+   "张昌蒲"
+  ]
+ },
+ {
+  "phase": "defense",
+  "n_in_video": 4,
+  "title": "仰观太虚",
+  "skill": "雅士",
+  "role": "黄承彦",
+  "is_new": true,
+  "effect_video": "当你受到伤害后，你可以选择一项：1.令伤害来源的非锁定技失效直到其下个回合开始；2.对一名其他角色执行「观虚」的效果。",
+  "seq": 38,
+  "pool": "受击防御型",
+  "timing": "受到伤害后",
+  "title_official": "仰观太虚",
+  "title_owners": [
+   "黄承彦"
+  ]
+ },
+ {
+  "phase": "defense",
+  "n_in_video": 5,
+  "title": "魁立倾厦",
+  "skill": "谏旋",
+  "role": "曹羲",
+  "is_new": true,
+  "effect_video": "当你受到伤害后，你可以令一名角色摸一张牌，若其手牌数等于你「刚述」中的任意项，其重复此流程。",
+  "seq": 39,
+  "pool": "受击防御型",
+  "timing": "受到伤害后",
+  "title_official": "魁立倾厦",
+  "title_owners": [
+   "曹羲"
+  ]
+ },
+ {
+  "phase": "defense",
+  "n_in_video": 6,
+  "title": "才惠双绝",
+  "skill": "理贤",
+  "role": "谋黄月英",
+  "is_new": true,
+  "effect_video": "〔0〕当你受到伤害后，你可将一张牌当【无中生有】〔1〕使用。当你以此法使用过三种不同牌名的锦囊牌后，此技能于你的结束阶段也可发动。",
+  "seq": 40,
+  "pool": "受击防御型",
+  "timing": "受到伤害后",
+  "title_official": "才惠双绝",
+  "title_owners": [
+   "谋黄月英"
+  ]
+ },
+ {
+  "phase": "defense",
+  "n_in_video": 7,
+  "title": "红烛垂泪",
+  "skill": "思泣",
+  "role": "薛灵芸",
+  "is_new": true,
+  "effect_video": "你的红色牌进入弃牌堆时，将之置于牌堆底。当你受到伤害后，你可以亮出牌堆底至多〔0〕张连续的红色牌，使用其中的【桃】、【无中生有】与装备牌（可指定其他角色为目标），然后摸等同于其中无法使用的牌数的牌。",
+  "seq": 41,
+  "pool": "受击防御型",
+  "timing": "受到伤害后",
+  "title_official": "红烛垂泪",
+  "title_owners": [
+   "薛灵芸"
+  ]
+ },
+ {
+  "phase": "defense",
+  "n_in_video": 8,
+  "title": "尔卜尔筮",
+  "skill": "蓍算",
+  "role": "牛辅",
+  "is_new": true,
+  "effect_video": "锁定技，你受到伤害后，你重铸一张牌，来源选择一项：1.失去1点体力；2.交给你一张装备区里的牌；3.将武将牌翻面。",
+  "seq": 42,
+  "pool": "受击防御型",
+  "timing": "受到伤害后",
+  "title_official": "尔卜尔筮",
+  "title_owners": [
+   "牛辅"
+  ]
+ },
+ {
+  "phase": "defense",
+  "n_in_video": 9,
+  "title": "垂宪后叶",
+  "skill": "殚心",
+  "role": "郭皇后",
+  "is_new": true,
+  "effect_video": "当你受到伤害后，你可以摸一张牌或修改「矫诏」。",
+  "seq": 43,
+  "pool": "受击防御型",
+  "timing": "受到伤害后",
+  "title_official": ""
+ },
+ {
+  "phase": "defense",
+  "n_in_video": 10,
+  "title": "环佩解君",
+  "skill": "妙心",
+  "role": "环淑君",
+  "is_new": true,
+  "effect_video": "锁定技，当你受到1点伤害后，摸两张牌。若「温宜」可发动次数为零，改为：摸一张牌，令「温宜」可发动次数加一。",
+  "seq": 44,
+  "pool": "受击防御型",
+  "timing": "受到伤害后",
+  "title_official": "环佩解君",
+  "title_owners": [
+   "环淑君"
+  ]
+ },
+ {
+  "phase": "defense",
+  "n_in_video": 11,
+  "title": "早终的先知",
+  "skill": "遗计",
+  "role": "郭嘉",
+  "is_new": false,
+  "effect_video": "当你受到1点伤害后，你可以观看牌堆顶的两张牌，然后将这些牌交给任意角色。",
+  "seq": 45,
+  "pool": "受击防御型",
+  "timing": "受到伤害后",
+  "title_official": "早终的先知",
+  "title_owners": [
+   "郭嘉"
+  ]
+ },
+ {
+  "phase": "defense",
+  "n_in_video": 12,
+  "title": "驱虎吞狼",
+  "skill": "节命",
+  "role": "荀彧",
+  "is_new": false,
+  "effect_video": "当你受到1点伤害后，你可以令一名角色将手牌摸至X张（X为其体力上限且至多为5）。",
+  "seq": 46,
+  "pool": "受击防御型",
+  "timing": "受到伤害后",
+  "title_official": "驱虎吞狼",
+  "title_owners": [
+   "荀彧"
+  ]
+ },
+ {
+  "phase": "defense",
+  "n_in_video": 13,
+  "title": "霸业继承者",
+  "skill": "放逐",
+  "role": "曹丕",
+  "is_new": false,
+  "effect_video": "当你受到伤害后，你可以令一名其他角色翻面，并令其摸X张牌（X为你已损失体力值）。",
+  "seq": 47,
+  "pool": "受击防御型",
+  "timing": "受到伤害后",
+  "title_official": "霸业继承者",
+  "title_owners": [
+   "曹丕"
+  ]
+ },
+ {
+  "phase": "defense",
+  "n_in_video": 14,
+  "title": "天下归心",
+  "skill": "归心",
+  "role": "神曹操",
+  "is_new": false,
+  "effect_video": "当你受到1点伤害后，你可以随机获得每名其他角色区域里的一张牌，然后翻面。",
+  "seq": 48,
+  "pool": "受击防御型",
+  "timing": "受到伤害后",
+  "title_official": "天下归心",
+  "title_owners": [
+   "神曹操"
+  ]
+ },
+ {
+  "phase": "defense",
+  "n_in_video": 15,
+  "title": "法不容情",
+  "skill": "御策",
+  "role": "满宠",
+  "is_new": false,
+  "effect_video": "当你受到伤害后，你可以展示一张手牌令伤害来源选择一项：1.弃置一张与你展示牌类型不同的手牌；2.你回复1点体力。",
+  "seq": 49,
+  "pool": "受击防御型",
+  "timing": "受到伤害后",
+  "title_official": "法不容情",
+  "title_owners": [
+   "满宠"
+  ]
+ },
+ {
+  "phase": "defense",
+  "n_in_video": 16,
+  "title": "治世之能臣",
+  "skill": "奸雄",
+  "role": "界曹操",
+  "is_new": false,
+  "effect_video": "当你受到伤害后，你可以摸一张牌，并获得造成此伤害的牌。",
+  "seq": 50,
+  "pool": "受击防御型",
+  "timing": "受到伤害后",
+  "title_official": "治世之能臣",
+  "title_owners": [
+   "界曹操"
+  ]
+ },
+ {
+  "phase": "defense",
+  "n_in_video": 17,
+  "title": "天姿的明君",
+  "skill": "恢拓",
+  "role": "曹叡",
+  "is_new": false,
+  "effect_video": "当你受到伤害后，你可以令一名角色判定，若结果为：·红色，其回复1点体力；·黑色，其摸与此伤害值等量张牌。",
+  "seq": 51,
+  "pool": "受击防御型",
+  "timing": "受到伤害后",
+  "title_official": "天姿的明君",
+  "title_owners": [
+   "曹叡"
+  ],
+  "title_video": "天资的明君"
+ },
+ {
+  "phase": "defense",
+  "n_in_video": 18,
+  "title": "社稷的先驱",
+  "skill": "筹策",
+  "role": "戏志才",
+  "is_new": false,
+  "effect_video": "当你受到1点伤害后，你可以判定，若结果为：·红色，你令一名角色摸一张牌，若其为「先辅」目标，改为摸两张牌；·黑色，你弃置一名角色区域里的一张牌。",
+  "seq": 52,
+  "pool": "受击防御型",
+  "timing": "受到伤害后",
+  "title_official": "社稷的先驱",
+  "title_owners": [
+   "戏志才"
+  ]
+ },
+ {
+  "phase": "defense",
+  "n_in_video": 19,
+  "title": "慧眼识君",
+  "skill": "烈节",
+  "role": "卫兹",
+  "is_new": false,
+  "effect_video": "当你受到伤害后，你可以弃置至多三张牌并摸等量张牌，然后你可以弃置伤害来源至多X张牌（X为你以此法弃置的红色牌数）。",
+  "seq": 53,
+  "pool": "受击防御型",
+  "timing": "受到伤害后",
+  "title_official": "慧眼识君",
+  "title_owners": [
+   "卫兹"
+  ]
+ },
+ {
+  "phase": "defense",
+  "n_in_video": 20,
+  "title": "机捷谈笑",
+  "skill": "惶汗",
+  "role": "族钟毓",
+  "is_new": false,
+  "effect_video": "当你受到牌的伤害后，你可以摸X张牌（X为此牌牌名字数）并弃置你已损失体力值张牌，若不为本回合首次发动，你视为未发动宗族技。",
+  "seq": 54,
+  "pool": "受击防御型",
+  "timing": "受到伤害后",
+  "skill_video": "愰汗",
+  "title_official": "机捷谈笑",
+  "title_owners": [
+   "族钟毓"
+  ]
+ },
+ {
+  "phase": "defense",
+  "n_in_video": 21,
+  "title": "神通妙算",
+  "skill": "称象",
+  "role": "界曹冲",
+  "is_new": false,
+  "effect_video": "当你受到1点伤害后，你可以亮出牌堆顶四张牌，获得其中任意张点数之和小于等于13的牌；若获得的牌点数和恰好为13，你下次发动「称象」多亮出一张牌。",
+  "seq": 55,
+  "pool": "受击防御型",
+  "timing": "受到伤害后",
+  "title_official": "神通妙算",
+  "title_owners": [
+   "界曹冲"
+  ]
+ },
+ {
+  "phase": "defense",
+  "n_in_video": 22,
+  "title": "委蛇两端",
+  "skill": "恇守",
+  "role": "韩馥",
+  "is_new": false,
+  "effect_video": "锁定技，当你受到伤害后，你摸三张牌，然后弃置X张牌（X为本回合受到过伤害的角色数）。",
+  "seq": 56,
+  "pool": "受击防御型",
+  "timing": "受到伤害后",
+  "skill_video": "愯守",
+  "title_official": "委蛇两端",
+  "title_owners": [
+   "韩馥"
+  ]
+ },
+ {
+  "phase": "defense",
+  "n_in_video": 23,
+  "title": "无愆垣下",
+  "skill": "临节",
+  "role": "袁涣",
+  "is_new": false,
+  "effect_video": "锁定技，你受到伤害后，来源弃置一张手牌，若为【杀】，你摸一张牌。",
+  "seq": 57,
+  "pool": "受击防御型",
+  "timing": "受到伤害后",
+  "title_video": "无怠垣下",
+  "title_official": "无愆垣下",
+  "title_owners": [
+   "袁涣"
+  ]
+ },
+ {
+  "phase": "end",
+  "n_in_video": 1,
+  "title": "雄长百越",
+  "skill": "避乱",
+  "role": "士燮",
+  "is_new": true,
+  "effect_video": "结束阶段，若有其他角色计算与你的距离为1，你可以弃置一张牌，全场每有一个势力，其他角色计算与你的距离便+1。",
+  "seq": 58,
+  "pool": "结束阶段型",
+  "timing": "结束阶段开始时",
+  "title_official": "雄长百越",
+  "title_owners": [
+   "士燮"
+  ]
+ },
+ {
+  "phase": "end",
+  "n_in_video": 2,
+  "title": "小家碧玉",
+  "skill": "飘零",
+  "role": "界小乔",
+  "is_new": true,
+  "effect_video": "结束阶段，你可以判定，若结果为红桃，你将判定牌置于牌堆顶或交给一名角色，若该角色是你，你弃置一张牌。",
+  "seq": 59,
+  "pool": "结束阶段型",
+  "timing": "结束阶段开始时",
+  "title_official": ""
+ },
+ {
+  "phase": "end",
+  "n_in_video": 3,
+  "title": "武侯长史",
+  "skill": "狷狭",
+  "role": "杨仪",
+  "is_new": true,
+  "effect_video": "结束阶段，你可以视为对一名其他角色依次使用至多两张不同的仅指定单一目标且目标不为自己的普通锦囊牌，然后其下个结束阶段可以视为对你使用等量张【杀】。",
+  "seq": 60,
+  "pool": "结束阶段型",
+  "timing": "结束阶段开始时",
+  "title_official": "武侯长史",
+  "title_owners": [
+   "杨仪"
+  ]
+ },
+ {
+  "phase": "end",
+  "n_in_video": 4,
+  "title": "制霸蛮中",
+  "skill": "再起",
+  "role": "界孟获",
+  "is_new": true,
+  "effect_video": "结束阶段，本回合每有一张红色牌置入弃牌堆，你便可以令一名角色选择一项：1.摸一张牌；2.令你回复1点体力。",
+  "seq": 61,
+  "pool": "结束阶段型",
+  "timing": "结束阶段开始时",
+  "title_video": "制霸南中",
+  "title_official": "制霸蛮中",
+  "title_owners": [
+   "界孟获"
+  ]
+ },
+ {
+  "phase": "end",
+  "n_in_video": 5,
+  "title": "冠宇啸北",
+  "skill": "襄戍",
+  "role": "阎柔",
+  "is_new": true,
+  "effect_video": "限定技，结束阶段，你可以令一名已受伤角色回复X点体力并摸X张牌（X为你本回合造成的伤害值且至多为5）。",
+  "seq": 62,
+  "pool": "结束阶段型",
+  "timing": "结束阶段开始时",
+  "title_official": "冠宇啸北",
+  "title_owners": [
+   "阎柔"
+  ]
+ },
+ {
+  "phase": "end",
+  "n_in_video": 6,
+  "title": "天行有常",
+  "skill": "星卜",
+  "role": "谯周",
+  "is_new": true,
+  "effect_video": "结束阶段，你可以亮出牌堆顶三张牌，然后你可以根据其中红色牌数令一名其他角色于其下回合获得以下效果：·3，摸牌阶段额外摸两张牌、出牌阶段使用【杀】的限制次数+1；·2，出牌阶段使用【杀】的限制次数-1、跳过弃牌阶段；·1或0，准备阶段弃置一张手牌。",
+  "seq": 63,
+  "pool": "结束阶段型",
+  "timing": "结束阶段开始时",
+  "title_official": "天行有常",
+  "title_owners": [
+   "谯周"
+  ]
+ },
+ {
+  "phase": "end",
+  "n_in_video": 7,
+  "title": "详阴阳之妙",
+  "skill": "天候",
+  "role": "周群",
+  "is_new": true,
+  "effect_video": "锁定技，结束阶段，你观看牌堆顶的三张牌并选择是否用你的手牌交换之，然后你展示牌堆顶三张牌中的一张，令一名角色根据此牌花色获得技能直到你下次发动此技能：红桃「烈暑」；方块「凝雾」；黑桃「骤雨」；梅花「严霜」。",
+  "seq": 64,
+  "pool": "结束阶段型",
+  "timing": "结束阶段开始时",
+  "title_official": "详阴阳之妙",
+  "title_owners": [
+   "周群"
+  ]
+ },
+ {
+  "phase": "end",
+  "n_in_video": 8,
+  "title": "遐雁归迩",
+  "skill": "联句",
+  "role": "李婉",
+  "is_new": true,
+  "effect_video": "结束阶段，你可以令一名其他角色获得弃牌堆中本回合你使用的至多两张颜色相同的牌，然后其下个结束阶段，你可获得弃牌堆中该回合其使用的至多两张另一种颜色的牌。",
+  "seq": 65,
+  "pool": "结束阶段型",
+  "timing": "结束阶段开始时",
+  "title_video": "遐雁归逐",
+  "title_official": "遐雁归迩",
+  "title_owners": [
+   "李婉"
+  ]
+ },
+ {
+  "phase": "end",
+  "n_in_video": 9,
+  "title": "坚争抗壮",
+  "skill": "义叱",
+  "role": "族杨彪",
+  "is_new": true,
+  "effect_video": "结束阶段，你可以拼点，若你赢，没赢的角色依次执行「问难」前X项（X为你本回合发动「问难」次数）。",
+  "seq": 66,
+  "pool": "结束阶段型",
+  "timing": "结束阶段开始时",
+  "title_official": "坚争抗壮",
+  "title_owners": [
+   "族杨彪"
+  ]
+ },
+ {
+  "phase": "end",
+  "n_in_video": 10,
+  "title": "绝世的舞姬",
+  "skill": "闭月",
+  "role": "貂蝉",
+  "is_new": false,
+  "effect_video": "结束阶段，你可以摸一张牌。",
+  "seq": 67,
+  "pool": "结束阶段型",
+  "timing": "结束阶段开始时",
+  "title_official": "绝世的舞姬",
+  "title_owners": [
+   "貂蝉"
+  ]
+ },
+ {
+  "phase": "end",
+  "n_in_video": 11,
+  "title": "固若金汤",
+  "skill": "据守",
+  "role": "曹仁",
+  "is_new": false,
+  "effect_video": "结束阶段，你可以翻面并摸四张牌，然后弃置一张手牌，若为装备牌，你改为使用之。",
+  "seq": 68,
+  "pool": "结束阶段型",
+  "timing": "结束阶段开始时",
+  "title_official": "固若金汤",
+  "title_owners": [
+   "曹仁"
+  ]
+ },
+ {
+  "phase": "end",
+  "n_in_video": 12,
+  "title": "鬼神之勇",
+  "skill": "励战",
+  "role": "SP曹仁",
+  "is_new": false,
+  "effect_video": "结束阶段，你可以令任意名已受伤角色摸一张牌。",
+  "seq": 69,
+  "pool": "结束阶段型",
+  "timing": "结束阶段开始时",
+  "title_official": "鬼神之勇",
+  "title_owners": [
+   "SP曹仁"
+  ]
+ },
+ {
+  "phase": "end",
+  "n_in_video": 13,
+  "title": "归汉的才女",
+  "skill": "默识",
+  "role": "SP蔡文姬",
+  "is_new": false,
+  "effect_video": "结束阶段，你可以将一张手牌当你出牌阶段内使用过的第一张基本牌或普通锦囊牌使用，然后你可以将一张手牌当你出牌阶段使用过的第二张基本牌或普通锦囊牌使用。",
+  "seq": 70,
+  "pool": "结束阶段型",
+  "timing": "结束阶段开始时",
+  "title_official": "归汉的才女",
+  "title_owners": [
+   "SP蔡文姬"
+  ]
+ },
+ {
+  "phase": "end",
+  "n_in_video": 14,
+  "title": "狂直之士",
+  "skill": "直言",
+  "role": "虞翻",
+  "is_new": false,
+  "effect_video": "结束阶段，你可以令一名角色摸一张牌并展示之，若为装备牌，其使用之并回复1点体力。",
+  "seq": 71,
+  "pool": "结束阶段型",
+  "timing": "结束阶段开始时",
+  "title_official": "狂直之士",
+  "title_owners": [
+   "虞翻"
+  ]
+ },
+ {
+  "phase": "end",
+  "n_in_video": 15,
+  "title": "大义不惜",
+  "skill": "秘计",
+  "role": "王异",
+  "is_new": false,
+  "effect_video": "结束阶段，你可以摸X张牌（X为你已损失体力值），然后你可以交给其他角色X张手牌。",
+  "seq": 72,
+  "pool": "结束阶段型",
+  "timing": "结束阶段开始时",
+  "title_official": "大义不惜",
+  "title_owners": [
+   "王异"
+  ]
+ },
+ {
+  "phase": "end",
+  "n_in_video": 16,
+  "title": "临难死义",
+  "skill": "罪论",
+  "role": "诸葛瞻",
+  "is_new": false,
+  "effect_video": "结束阶段，你可以观看牌堆顶三张牌，然后你每满足一项条件，便获得其中一张牌，将剩余牌以任意顺序置于牌堆顶（1.本回合造成过伤害；2.本回合未弃置过牌；3.手牌数全场最少）。若均不满足，你与一名其他角色失去1点体力。",
+  "seq": 73,
+  "pool": "结束阶段型",
+  "timing": "结束阶段开始时",
+  "title_official": "临难死义",
+  "title_owners": [
+   "诸葛瞻"
+  ]
+ },
+ {
+  "phase": "end",
+  "n_in_video": 17,
+  "title": "扣弦的豪将",
+  "skill": "镇骨",
+  "role": "郝昭",
+  "is_new": false,
+  "effect_video": "结束阶段，你可以选择一名其他角色，本回合结束时和其下回合结束时，其将手牌调整至与你手牌数相同（至多摸至五张）。",
+  "seq": 74,
+  "pool": "结束阶段型",
+  "timing": "结束阶段开始时",
+  "title_official": "扣弦的豪将",
+  "title_owners": [
+   "郝昭"
+  ]
+ },
+ {
+  "phase": "end",
+  "n_in_video": 18,
+  "title": "炎志灼心",
+  "skill": "燃己",
+  "role": "谋姜维",
+  "is_new": false,
+  "effect_video": "限定技，结束阶段，若你本回合使用过牌的阶段数：·大于等于体力值，你可以获得「困奋」；·小于等于体力值，你可以获得「诈降」。若如此做，你将手牌数或体力值调整至上限，然后你不能回复体力直到杀死角色。",
+  "seq": 75,
+  "pool": "结束阶段型",
+  "timing": "结束阶段开始时",
+  "title_official": "炎志灼心",
+  "title_owners": [
+   "谋姜维"
+  ]
+ },
+ {
+  "phase": "end",
+  "n_in_video": 19,
+  "title": "意前笔启",
+  "skill": "诫厉",
+  "role": "族钟繇",
+  "is_new": false,
+  "effect_video": "结束阶段，你可选择一名角色，观看其牌名字数最多的手牌和牌堆顶的X张牌，然后你用手牌以任意顺序交换牌堆顶等量牌（X为你本回合使用的牌名字数的最大值）。",
+  "seq": 76,
+  "pool": "结束阶段型",
+  "timing": "结束阶段开始时",
+  "skill_video": "诚厉",
+  "title_official": "意前笔启",
+  "title_owners": [
+   "族钟繇"
+  ]
+ },
+ {
+  "phase": "end",
+  "n_in_video": 20,
+  "title": "歧路也汤汤",
+  "skill": "苦渡",
+  "role": "族杨众",
+  "is_new": false,
+  "effect_video": "限定技，结束阶段，你可以重铸两张牌，令一名角色下X个回合结束时摸一张牌，第X个回合后其执行一个额外回合（X为你重铸牌点数差且至多为5）。",
+  "seq": 77,
+  "pool": "结束阶段型",
+  "timing": "结束阶段开始时",
+  "title_official": "歧路也汤汤",
+  "title_owners": [
+   "族杨众"
+  ]
+ },
+ {
+  "phase": "end",
+  "n_in_video": 21,
+  "title": "烛照官渡",
+  "skill": "焚巢",
+  "role": "谋许攸",
+  "is_new": false,
+  "effect_video": "限定技，结束阶段，你可以令一名角色获得弃牌堆中的伤害牌（不超过存活人数）且令这些牌造成伤害时伤害属性改为火焰。",
+  "seq": 78,
+  "pool": "结束阶段型",
+  "timing": "结束阶段开始时",
+  "title_official": "烛照官渡",
+  "title_owners": [
+   "谋许攸"
+  ]
+ },
+ {
+  "phase": "end",
+  "n_in_video": 22,
+  "title": "后后嘉荣",
+  "skill": "追忆",
+  "role": "界步练师",
+  "is_new": false,
+  "effect_video": "限定技，结束阶段，你可令一名其他角色摸三张牌并回复1点体力。然后你死亡时，可以对其再次发动本技能。",
+  "seq": 79,
+  "pool": "结束阶段型",
+  "timing": "结束阶段开始时",
+  "title_official": ""
+ }
+]
