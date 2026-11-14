@@ -25,7 +25,7 @@
 - Python 3.9+
 - `pip install pillow numpy`
 
-> 不想装 Python 的，可以用打包好的免安装 exe 版（Release 里单独提供）。
+> 不想装 Python 的：到 [Releases](https://github.com/PengPengCUG/sanguosha-pingjian-helper/releases) 下载 `pingjian-overlay_standalone_v1.0.zip`（免安装 exe，解压双击即可）。
 
 ## 启动
 
